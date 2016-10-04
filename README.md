@@ -1,5 +1,13 @@
-# Just some practice code here  
-not tutorial, not very useful to you  
+
+
+# Minitest
+
+
+# Rspec
+spec/  
+lib/  
+filename: xx_spec.rb  
+how to run: rspec spec  
 
 
 
